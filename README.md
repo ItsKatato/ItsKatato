@@ -1,4 +1,4 @@
-### Hi there 👋
+![Kaelah Smallwood Full-Stack Web Dev](https://github.com/ItsKatato/ItsKatato/blob/main/images/github-header-image.png)
 
 <!--
 **ItsKatato/ItsKatato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
